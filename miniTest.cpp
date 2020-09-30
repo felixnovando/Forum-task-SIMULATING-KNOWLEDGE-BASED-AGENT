@@ -22,6 +22,7 @@ int main(){
 	int skor;
 	
 	while(true){
+		system("cls");
 		printf("mini covid-19 test\n");
 		printf("Press enter to continue..."); 
 		getchar();
